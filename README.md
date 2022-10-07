@@ -32,5 +32,9 @@ Here are few snapshots from the website :
 
 Here are few snapshots of the website from a mobile device
 
+![MobImage 1](https://github.com/singhalaman23/Image-moderator-documentation/blob/main/MobileImageModIMG1.png?raw=true)
+
+![MobImage 1](https://github.com/singhalaman23/Image-moderator-documentation/blob/main/MobileImageModIMG2.png?raw=true)
+
 
 
