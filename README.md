@@ -11,4 +11,10 @@ You can access the backend files repository of this project using the link - htt
 
 ***Note: The frontend and backend repositories mentioned above were used only for the deployment purpose in Heroku. This current repository is for documentation purpose, so that if the live link doesn't work due to any reason, then you can see how the website looked when it was live.***
 
+Here are few snapshots from the website : 
+
+>First look of the website upon loading
+
+![Image 1](https://github.com/singhalaman23/Image-moderator-documentation/blob/main/ImageModIMG1.png?raw=true)
+
 
