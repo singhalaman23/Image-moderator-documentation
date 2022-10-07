@@ -30,3 +30,7 @@ Here are few snapshots from the website :
 ![Image 4](https://github.com/singhalaman23/Image-moderator-documentation/blob/main/ImageModIMG4.png?raw=true)
 
 
+Here are few snapshots of the website from a mobile device
+
+
+
