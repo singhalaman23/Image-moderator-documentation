@@ -2,9 +2,9 @@
 **Image moderator** is a web app that returns probability scores on the likelihood that an image contains concepts such as gore, drugs, explicit or suggestive nudity. It determines if images are “safe".
 
 Tech stack used:
--Frontend - HTML, CSS, React.js
--Backend - Node.js, Express.js
--API used - CLARIFAI's Image Moderation Model
+- Frontend - HTML, CSS, React.js
+- Backend - Node.js, Express.js
+- API used - CLARIFAI's Image Moderation Model
 
 This website is deployed on heroku. 
 
