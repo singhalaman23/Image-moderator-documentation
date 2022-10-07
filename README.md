@@ -13,8 +13,20 @@ You can access the backend files repository of this project using the link - htt
 
 Here are few snapshots from the website : 
 
->First look of the website upon loading
+>First look of the website upon loading.
 
 ![Image 1](https://github.com/singhalaman23/Image-moderator-documentation/blob/main/ImageModIMG1.png?raw=true)
+
+>User copied and pasted URL of a random image and clicked on DETECT button.
+
+![Image 2](https://github.com/singhalaman23/Image-moderator-documentation/blob/main/ImageModIMG2.png?raw=true)
+
+>After clicking on DETECT, the user clicked on RESULT button.
+
+![Image 3](https://github.com/singhalaman23/Image-moderator-documentation/blob/main/ImageModIMG3.png?raw=true)
+
+>The footer of the website.
+
+![Image 4](https://github.com/singhalaman23/Image-moderator-documentation/blob/main/ImageModIMG4.png?raw=true)
 
 
